@@ -1,2 +1,2 @@
 # clone-netflix
-Recreating netflix website interface using simple technologies (HTML5, CCS3 and JavaScript)
+Recreating netflix website interface using HTML5, CCS3 and JavaScript
